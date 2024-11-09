@@ -31,8 +31,8 @@
 
 
 ## 📊 GitHub Stats:
-<a><img height=160 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riceconfetti&theme=catppuccin_mocha&hide_border=true" /></a>
-<a><img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=riceconfetti&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false"/></a> 
-<a><img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riceconfetti&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false"/></a>
+<a><img height=140 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riceconfetti&theme=catppuccin_mocha&hide_border=true" /></a>
+<a><img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=riceconfetti&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false"/></a> 
+<a><img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riceconfetti&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false"/></a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
