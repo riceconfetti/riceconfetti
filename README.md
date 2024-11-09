@@ -1,7 +1,5 @@
 ![Icon](/assets/rhylen-icon.png)
 
-# Hi! I'm rhylen and I'm a front-end developer
-
 ## 💫 About Me:
 
 🔭 I’m currently working on @rinn-ux<br>
