@@ -11,7 +11,7 @@
 
 ## 💻 Tech Stack:
 
-<div width="80%">
+<div align="left" width=80>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
@@ -28,11 +28,11 @@
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=riceconfetti&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false)
+
 
 ## 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=riceconfetti&theme=catppuccin_mocha&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=riceconfetti&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false)
+<a><img height=160 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riceconfetti&theme=catppuccin_mocha&hide_border=true" /></a>
+<a><img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=riceconfetti&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false"/></a> 
+<a><img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riceconfetti&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false"/></a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
