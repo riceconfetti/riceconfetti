@@ -4,7 +4,7 @@
 
 <p>Hi, I'm rhylen and I'm a front-end developer who makes silly things for myself and the internet!.</p>
 
-<p>🔭 I’m currently working on <a href="http://rinn-ux.tumblr.com">rinn-ux.tumblr.com</a> (<a href="https://github/rinn-ux">@rinn-ux</a> on Github)</p>
+<p>🔭 I’m currently working on <a href="http://rinn-ux.tumblr.com">rinn-ux.tumblr.com</a> (<a href="https://github.com/rinn-ux">@rinn-ux</a> on Github)</p>
 <p>👯 I’m looking to collaborate on fan projects</p>
 <p>🤝 I’m looking for help with DevOps</p>
 <p>🌱 I’m currently learning Python</p>
