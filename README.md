@@ -1,6 +1,9 @@
 ## 💫 About Me:
 
-<img src="/assets/rhylen-icon.png" alt="Icon" width="200" align="right"/>
+<a href="https://archelirion.carrd.co/">
+<img src="/assets/rhylen-icon.png" alt="Genshin Impact Nahida Fanart Icon" width="200" align="right" />
+p<img src="/assets/credit.png" alt="🍃 Icon by archelirion" width="200" align="right"/>
+</a>
 
 <p>Hi, I'm rhylen and I'm a front-end developer who makes silly things for myself and the internet!.</p>
 
