@@ -1,9 +1,10 @@
 ## 💫 About Me:
 
 <a href="https://archelirion.carrd.co/">
-<img src="/assets/rhylen-icon.png" alt="Genshin Impact Nahida Fanart Icon" width="200" align="right" />
-p<img src="/assets/credit.png" alt="🍃 Icon by archelirion" width="200" align="right"/>
-</a>
+<img src="/assets/rhylen-icon.png" alt="Genshin Impact Nahida Fanart Icon" width="180" align="right" />
+    </a>
+
+
 
 <p>Hi, I'm rhylen and I'm a front-end developer who makes silly things for myself and the internet!.</p>
 
@@ -12,7 +13,10 @@ p<img src="/assets/credit.png" alt="🍃 Icon by archelirion" width="200" align=
 <p>🤝 I’m looking for help with DevOps</p>
 <p>🌱 I’m currently learning Python</p>
 
+<img src="/assets/credit.png" alt="🍃 Icon by archelirion" width="150" align="right"/>
+
 ## 💻 Tech Stack:
+
 
 <div align="left" width=80>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
